@@ -40,7 +40,7 @@ app:
 # 详细时间线图请查看 config/timeline.yaml
 # ===============================================================
 schedule:
-  enabled: ture                        # 是否启用调度系统（true=启用, false=关闭，默认关闭）
+  enabled: false                        # 是否启用调度系统（true=启用, false=关闭，默认关闭）
   preset: "night_owl"             # 预设模板名称（见上方说明）
 
 
@@ -356,7 +356,7 @@ ai:
   # 完整列表: https://docs.litellm.ai/docs/providers
   # 如果你对于看英文文档比较头疼，那么可以点击页面右下角的 【Ask AI】 ,用中文询问怎么配置
 
-  model: "quwen3.7plus"
+  model: "dashscope/qwen-plus"
 
   api_key: "sk-ws-H.RYHXRYP.xwa2.MEYCIQDUhP1qd_B6Rt6xmHAsEz8gPXXWPCe38x58CSD5FPe01AIhAJr1J5PXv7JuukQ2W_GBEJv5NFtlTkXtStkdixXllTZw"                       # API Key（建议使用环境变量 AI_API_KEY）
   
