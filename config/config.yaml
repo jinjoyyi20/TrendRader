@@ -358,7 +358,7 @@ ai:
 
   model: "dashscope/qwen-plus"
 
-  api_key: "sk-ws-H.RYHXRYP.xwa2.MEYCIQDUhP1qd_B6Rt6xmHAsEz8gPXXWPCe38x58CSD5FPe01AIhAJr1J5PXv7JuukQ2W_GBEJv5NFtlTkXtStkdixXllTZw"                       # API Key（建议使用环境变量 AI_API_KEY）
+  api_key: "sk-ws-H.RYEIPMD.qIU7.MEUCIQDen88Uvgwb_kEhlTKkNu3IC5r-RaT9aW7Qxt8Y64N4qgIgbdMplxxHlrlX_KaKBFgZFtQjmdQG-l4xEbKLfB-UqcY"                       # API Key（建议使用环境变量 AI_API_KEY）
   
   api_base: ""                      # 自定义 API 地址（可选，绝大多数情况留空即可）
                                     #
